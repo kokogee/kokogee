@@ -16,4 +16,5 @@ About my work & experiences; My Resume :grinning:
 
 
 Connect with me on;
-[I'm an inline-style link](https://www.linkedin/in/kokogee.com)
+
+[https://www.linkedin/in/kokogee.com]()
