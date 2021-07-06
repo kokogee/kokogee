@@ -2,14 +2,14 @@
          
 Hi 👋 I'm Godwin Effiong E.
 
-I’m currently learning about PHP 🐘 and Laravel 💙
+:feelsgood:  I’m currently learning about PHP 🐘 and Laravel 💙
 
-✍️ Sometimes on Medium, Dev.to and Hashnode.
+✍️  Sometimes on Medium, Dev.to and Hashnode.
 
-👨‍💻 PHP. Laravel. VUE. SQL. AWS
+👨‍💻  PHP. Laravel. VUE. SQL. AWS
 
-🦄 Building Evico.NG
+🦄  Building EvicoNG
 
-✉️ udofia_effiong@yahoo.com
+✉️  udofia_effiong@yahoo.com
 
 About my work & experiences; My Resume :grinning:
