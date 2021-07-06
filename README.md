@@ -8,7 +8,7 @@ Hi 👋 I'm Godwin Effiong E.
 
 👨‍💻  PHP. Laravel. VUE. SQL. AWS
 
-🦄  Building EvicoNG
+🦄  Building EvicoHoldings
 
 ✉️  udofia_effiong@yahoo.com
 
