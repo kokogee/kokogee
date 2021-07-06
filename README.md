@@ -1,9 +1,12 @@
-### Hi there 👋
+                        Hi wave, I'm Godwin Effiong
 
-I'm Godwin Effiong, i have a deep passion for Tech, am a crazy learner as long as it's worth it. 
-Currently learning and working with PHP and Laravel. 
 
-FYI: This, would always be subjected to change, that's because am also "So many things as well". Lol.
+seedling I’m currently learning about PHP and Laravel
 
-I'm here because i want to learn, collaborate and as well contribute to the community.
+memo Sometimes I write articles on Medium and Hashnode
 
+speech_balloon  PHP, Laravel, VUE, SQL.
+
+mailbox  udofia_effiong@yahoo.com
+
+page_facing_up Know about my work & experiences My Resume
