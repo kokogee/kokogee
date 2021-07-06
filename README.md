@@ -15,6 +15,7 @@ Hi 👋 I'm Godwin Effiong E.
 About my work & experiences; My Resume :grinning:
 
 
-Connect with me on;
+
+CONNECT WITH ME ON;
 
 [https://www.linkedin/in/kokogee.com]()
