@@ -1,4 +1,4 @@
-                        Hi, I'm Godwin Effiong
+                        Hi, :wave: I'm Godwin Effiong
 
 
 I’m currently learning about PHP and Laravel
@@ -9,4 +9,4 @@ PHP, Laravel, VUE, SQL.
 
 udofia_effiong@yahoo.com
 
-About my work & experiences; My Resume:grinning:
+About my work & experiences; My Resume :grinning:
