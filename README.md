@@ -1,4 +1,4 @@
-                        Hi, :wave: I'm Godwin Effiong
+                        Hi :wave: I'm Godwin Effiong
 
 
 I’m currently learning about PHP and Laravel
