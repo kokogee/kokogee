@@ -13,3 +13,7 @@ Hi 👋 I'm Godwin Effiong E.
 ✉️  udofia_effiong@yahoo.com
 
 About my work & experiences; My Resume :grinning:
+
+
+Connect with me on;
+[I'm an inline-style link](https://www.linkedin/in/kokogee.com)
