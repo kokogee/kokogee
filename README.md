@@ -17,5 +17,7 @@ About my work & experiences; My Resume :grinning:
 
 
 CONNECT WITH ME ON;
-
-[https://www.linkedin/in/kokogee.com]()
+<br />
+<br />
+[linkedin]: https://linkedin.com/in/kokogee
+[twitter]: https://twitter.com/_kokogee
