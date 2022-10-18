@@ -2,11 +2,11 @@
          
 Hi 👋 I'm Godwin Effiong E.
 
-:feelsgood:  I’m currently learning about PHP 🐘 and Laravel 💙
+:feelsgood:  I’m currently learning about C# and ASP.Net 💙... Part Time Designer too.
 
-✍️  Sometimes on Medium, Dev.to and Hashnode.
+✍️  Sometimes writing on Medium, Dev.to and Hashnode.
 
-👨‍💻  PHP. Laravel. VUE. SQL. AWS
+👨‍💻  C#. ASP.Net. Javascript. Bootstrap/TailwindCSS. SQL. AWS
 
 🦄  Building EvicoHoldings
 
