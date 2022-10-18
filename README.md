@@ -2,7 +2,7 @@
          
 Hi 👋 I'm Godwin Effiong E.
 
-:feelsgood:  I’m currently learning about C# and ASP.Net 💙... Part Time Designer too.
+:feelsgood:  I’m currently learning about C# and ASP.Net 💙... Yoh! I do Part Time Designing as well.
 
 ✍️  Sometimes writing on Medium, Dev.to and Hashnode.
 
